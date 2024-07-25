@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "806044657323",
+    "project_id": "bird-book-c2b3a",
+    "storage_bucket": "bird-book-c2b3a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806044657323:android:7b46dbf5589739b036b9ee",
+        "android_client_info": {
+          "package_name": "com.hbc.birdbook"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTQIHABEfwusC6CwLPqqMdKWe1UQRr0Cw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "bird-book-430313",
+  "private_key_id": "d1bd99f1fa6acec6e661cd3f500a2256fe4e3b2a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCjyTKX3A0mIupp\ngNowFGH5CCrWP3BkQ+9OpQEapU4EwqFc2iP1uihvH+ZBYOGQEhtPGZS5T+JEpyNp\nx6KsKbcCArNGIoGoXbUGYrTBKcYlJURN9iP+yolpdHFOlWnwCbRTAz4XAr3hcGBi\n3RiiOb0iTABnf5LfnF0I45zW5MF6aDHlA47AUsHfVEaUBiC+siwSW/vhnZdPgpNm\nf3BC3W4mXzGjd5eusESWsGvNyR6dPZ5mjKoF30MA2CeficnBsv6KyylBVxa66hxg\nYDd91nEALO/lI6K8mWhwtsw6rMY7xbJX9KAfTWo1okIvl7oKm3n1zLaEoHH7YlIg\nWYINoTdXAgMBAAECggEAUFvGRWjTULs/zLzKEF3nxdIChnTAtYj5UFo3xPWG5mIB\n3rcufoE0FnWNuNUKRnAD0xbnd9ZgWzOv9dXbk+Gxpzxg7g+/ErbLOxNRwRY4YAA9\nV4zlEz0XF1ToxNgdDocMYNBN9edD92h1+fuleu6eQ8YLSrx2eNzUbqiSSoMZBG9y\neHIHdRCoiB68mOYNscPURRgw2Wm7KET1dFk2koOTCcA/uG6Vxg1JfjJUB6C7sLBf\nbSjoR+L3mrA2/Idtjz6FysVlWEFfwzPf7zBcXzFKEV4ncok54wz3T3+WBk/+rWqm\naqKspBhBN/hvU6FJGaPExYXNNadPd2b7ncDBNzsWZQKBgQDaOuBczKblIiXZP15u\nKIBFtNn1wAnE4ASoCA0KPFcIYTDVehvfDiJcoIK85l69qUwhVMLDTRgv/poBAVBW\n8mgZFyXWAs2+5LxUWkuZN4zmirRMjk22Bs1J/Ibzfb0uupu6eD90HzLq+126w2IN\nDpciCnHxgohjmHZw18cmTrQEBQKBgQDAIhEC/mofdWjkHLM0jn/4fIO3WsvpID7c\nsHk22feJ8u8T6LEqwUqxukTltzbTOMlTVrWRYipzVZ4gRlVcap4zqOg6roGSjnfM\ng3kHayHQiAMPKDkqhoXT05I6OmftSX59ULekSRaEhzkQ4vCFD9GDeIMwRUoU6sw7\nj80D8yboqwKBgG8/blrAVSAfrU23WSss6F8gl7AIqrI7RQRnvkYGhpOWADADZKvr\n56ZyiNNFWOy0nkOrkvG+nmLxFo8GnW8Fef24aChWG46BymPx9/HueJyZ/tm7/W+a\nvhJGcoE0CzoEFRkU7bwDn5BcfeaUbaqcUn0e+AEW+vJSqaZSyYoEuw4FAoGAdn4M\nA86n4FLmp5hTpRwlLDiOeywSCeqLGkvz1bJDid47OAoQCZA/4rBAAXQm6clh0HXv\ncIQcLhkldj4qMt7GRpHq9xXcb2hR1d1XbQ3TQuo/CMAD0Yg5TNR0oFiY86yZx+tZ\n9oXkz0MeHJ35O/bvfad7MO/qqk/MOQeMptz0qBUCgYEApvH3S8JA/RO/BODSTlT3\n2YSC63+fN4rulqwY5D80A2rO/bmNUjeSDT9UFA+dQy/Nj7+p4Ymv6rzRl9hbo6mW\nWeHcsEILPJHyznhVCLSMswiE9pzt4qJVndmysMMP79LR7YSo2gj9A0/UfLFnhs6m\nVqSbHI88QfTuN8HJ6yKui84=\n-----END PRIVATE KEY-----\n",
+  "client_email": "bird-608@bird-book-430313.iam.gserviceaccount.com",
+  "client_id": "112167645015053818356",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bird-608%40bird-book-430313.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
